@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is William and I'm a Front-End Develeper, from Foz do Iguaçu- Brasil</p>
+<p align="left">My name is William and I'm a Front-End Developer, from Foz do Iguaçu- Brasil</p>
 
 ###
 
